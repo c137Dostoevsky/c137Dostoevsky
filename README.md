@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @c137Dostoevsky.
 - 👀 I’m interested in Pentest.
 - 🌱 I’m currently learning everything.
-- 📫 How to reach me,not now.
 
 **And the sun shone,having no alternative,on the nothing new.**
 <!---
